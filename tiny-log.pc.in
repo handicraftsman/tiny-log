@@ -1,4 +1,4 @@
-Name: tiny
+Name: tiny-log
 Description: A simple logging library
 Version: @PROJECT_VERSION@
 Cflags: -I@CMAKE_INSTALL_PREFIX@/include/
